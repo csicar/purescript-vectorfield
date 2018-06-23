@@ -1,6 +1,10 @@
 {
   "name": "purescript-vectorfield",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/csicar/purescript-vectorfield.git"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
